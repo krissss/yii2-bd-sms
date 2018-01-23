@@ -26,8 +26,8 @@ $config = [
         Sms::COMPONENT_NAME => [
             'class' => Sms::className(),
             'enable' => true,
-            'account' => 'yitongdianshang',
-            'password' => 'Adminit1688!@#$',
+            'account' => 'xxxx',
+            'password' => 'xxxxx',
             'logCategory' => 'bd-sms',
         ]
     ]
